@@ -27,16 +27,3 @@ Click here: [Data Use Agreement](https://vitaldb.net/dataset/?query=overview&doc
 |[vitaldb_tableone](./vitaldb_tableone.ipynb)|Make a group table depending on the death status|
 
 
-
-## Update
-|Code Update|Detail|Need to check (V:Completed)|
-|-----------|------|---------------------------|
-|[mbp_mins.ipynb](./mbp_mins.ipynb)|There is no lab_name 'Troponin I'||
-|[vitaldb_quality_check.ipynb](./vitaldb_quality_check.ipynb)|No attribute 'load_trks' in <code>vitaldb</code> library||
-|[vitaldb_tableone.ipynb](./vitaldb_tableone.ipynb)|No columns 'filename','casedur', 'opdur', 'anedur' in 'https://api.vitaldb.net/cases' -> Delete them|V|
-|[mbp_aki.ipynb](./mbp_aki.ipynb)|Change lab name 'Creatinine' to 'cr'|V|
-|[mit_bih_arrhythmia.ipynb](./mit_bih_arrhythmia.ipynb)|Edit 'wget' and 'unzip' code|V|
-|[hypotension_mbp.ipynb](./hypotension_mbp.ipynb)|Edit directory path|V|
-
-
-
