@@ -12,11 +12,12 @@ Click here: [Data Use Agreement](https://vitaldb.net/dataset/?query=overview&doc
 |Sample code|Objective|
 |-----------|---------|
 |[vitaldb_open_dataset](./vitaldb_open_dataset.ipynb)|How to use VitalDB open dataset|
-|[vitaldb_python_library](./vitaldb_python_library.ipynb)|How to handle Vital files using vitaldb and Python library|
-|[predict_mortality](./predict_mortality.ipynb)|Prediction of in-hospital mortality in surgical patients|
-|[asa_mortality](./asa_mortality.ipynb)|Compare mortality rates depending on ASA physical status class|
-|[xgb_mortality](./xgb_mortality.ipynb)|Prediction of mortality rate using xgboost|
-|[vitaldb_quality_check](./vitaldb_quality_check.ipynb)|Check the quality of data from vitalDB|
+|[vitaldb_python_library](./vitaldb_python_library.ipynb)|How to handle Vital files using vitaldb library|
+|[predict_mortality](./predict_mortality.ipynb)|Machine learning model for predicting in-hospital mortality|
+|[pyvital](./pyvital.ipynb)|How to analyze biosignal data using Pyvital library|
+|[asa_mortality](./asa_mortality.ipynb)|Comparison of mortality rates depending on ASA physical status class|
+|[xgb_mortality](./xgb_mortality.ipynb)|Machine Learning Model for Mortality Rate Prediction|
+|[vitaldb_quality_check](./vitaldb_quality_check.ipynb)|How to check data quality in vitaldb dataset|
 |[hypotension_mbp](./hypotension_mbp.ipynb)|Hypotension prediction using mean blood pressure values|
 |[hypotension_art](./hypotension_art.ipynb)|Hypotension prediction using arterial blood pressure waveform|
 |[eeg_mac](./eeg_mac.ipynb)|Prediction of anesthetic concentrationion from EEG|
