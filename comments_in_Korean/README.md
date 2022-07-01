@@ -12,8 +12,6 @@
 |-----------|---------|
 |[predict_mortality](./predict_mortality.ipynb)|술 후 원내 사망 예측 모델 실습|
 |[asa_mortality](./asa_mortality.ipynb)|ASA physical status classification 에 따른 사망률|
-|[xgb_mortality](./xgb_mortality.ipynb)|xgboost로 사망 비율 예측|
-|[vitaldb_quality_check](./vitaldb_quality_check.ipynb)|vitaldb 데이터 퀄리티 체크|
 |[eeg_mac](./eeg_mac.ipynb)|뇌파로부터 마취제 농도 예측 모델 실습|
 |[mbp_mins](./mbp_mins.ipynb)|술 중 혈압에 따른 MINS 발생 위험|
 |[mbp_aki](./mbp_aki.ipynb)|술 중 혈압에 따른 AKI 발생 위험|
